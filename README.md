@@ -3,10 +3,10 @@
 
 ## I'm a Student, Graphic Designer, Developer, and Cryptominer!
 
-- 🥗 I use a crypto-miner: [Salad.io](https://www.salad.io/) to make money!
-- 💰 Use my code: 01SE1X for a 2x earning rate bonus!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm from The Netherlands!
+-  🥗  I use a crypto-miner: [Salad.io](https://www.salad.io/) to make money!
+-  💰  Use my code: 01SE1X for a 2x earning rate bonus!
+-  😄  Pronouns: He/Him
+-  ⚡  Fun fact: I'm from The Netherlands!
 
 ### Connect with me:
 
