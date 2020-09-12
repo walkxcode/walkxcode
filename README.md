@@ -8,7 +8,6 @@
 -  😄  Pronouns: He/Him
 -  ⚡  Fun fact: I'm from The Netherlands!
 
-<!-- Test. -->
 ### Connect with me:
 
 [<img align="left" alt="https://solo.to/walker_21390" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
