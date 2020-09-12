@@ -33,5 +33,4 @@
 [instagram]: https://www.instagram.com/walkx_/
 
 ---
-![Salad.io](https://www.salad.io/images/Crypto%20+%20Salad%201.png)
-
+![Salad.io](https://i.imgur.com/PD3fjVe.png)
