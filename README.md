@@ -32,3 +32,6 @@
 [youtube]: https://www.youtube.com/channel/UCl3V82k-w5lcWNKqxnD6Y_g
 [instagram]: https://www.instagram.com/walkx_/
 
+---
+![Salad.io](https://www.salad.io/images/Crypto%20+%20Salad%201.png)
+
