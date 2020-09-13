@@ -35,19 +35,26 @@
 
 
 <div align="center">
-
+  
 ---
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Walker21390's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Walker21390&show_icons=true&hide_border=true" />
-  <a href="https://github.com/Walker21390">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walker21390&theme=light&hide_langs_below=1" />
-  </a>  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Walker21390&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walker21390&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
+---
+
+<details>
+  <summary>:fire: Best repo's</summary>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Walkx-Technologies&repo=SaladLogViewer-Custom&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
+
+---
 
 [website]: https://github.com/Walkx-Technologies
 [twitter]: https://twitter.com/Walker_21390
