@@ -7,10 +7,12 @@
 -  💰  Use my code: 01SE1X for a 2x earning rate bonus!
 -  😄  Pronouns: He/Him
 -  ⚡  Fun fact: I'm from The Netherlands!
+-  💬  Contact me on discord: Walker | Crypto Miner#0730
+-  🗃️  Check out my GitHub organization [here](https://github.com/Walkx-Technologies)!
 
 ### Connect with me:
 
-[<img align="left" alt="https://solo.to/walker_21390" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://github.com/Walkx-Technologies" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="WALKX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Walker_21390 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="walkx_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -27,7 +29,7 @@
 
 </details>
 
-[website]: https://solo.to/walker_21390
+[website]: https://github.com/Walkx-Technologies
 [twitter]: https://twitter.com/Walker_21390
 [youtube]: https://www.youtube.com/channel/UCl3V82k-w5lcWNKqxnD6Y_g
 [instagram]: https://www.instagram.com/walkx_/
