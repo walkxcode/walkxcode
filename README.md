@@ -21,13 +21,30 @@
 <br />
 
 ---
+**Languages and Tools:**  
+
+<code><img height="20" src="https://developer.rhino3d.com/images/rhinopython-guides-col1.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" src="https://blogs.vmware.com/management/files/2019/04/25231.png"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/f8cef0f7308f68d3cdaa47ef57cc9cbc6957af6e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f7375626c696d65746578742d332d6f72616e67652d6f75746c696e652e706e67"></code>
+<code><img height="20" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5d1be26c1501f10001573e58/0x0.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"></code>    
+
+
+<div align="center">
+  
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Walker21390's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Walker21390&show_icons=true&hide_border=true" />
+  <a href="https://github.com/Walker21390">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walker21390&theme=light&hide_langs_below=1" />
+  </a>  
 
 </details>
+
 
 [website]: https://github.com/Walkx-Technologies
 [twitter]: https://twitter.com/Walker_21390
