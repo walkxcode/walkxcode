@@ -1,5 +1,8 @@
 ### Hi there, I'm Bjorn - aka Walker21390 👋
 
+[![Website](https://img.shields.io/website?label=Walker-Technologies&style=for-the-badge&url=https://github.com/Walkx-Technologies)](https://twitter.com/Walker_21390)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Walker_21390?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FWalker_21390&screen_name=Walker_21390)
+
 
 ## I'm a Student, Graphic Designer, Developer, and Cryptominer!
 
