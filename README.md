@@ -56,7 +56,7 @@
 <details>
   <summary>:fire: Best repo's</summary>
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Walkx-Technologies&repo=SaladLogViewer-Custom&theme=dark&show_icons=true)](https://github.com/Walkx-Technologies/SaladLogViewer-Custom)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Walkx-Technologies&repo=SaladCLI-Custom&theme=dark&show_icons=true)](https://github.com/Walkx-Technologies/SaladCLI)
   
 </details>
 
