@@ -1,6 +1,6 @@
 ### Hi there, I'm Bjorn - aka Walker21390 👋
 
-[![Website](https://img.shields.io/website?label=WalkyLtd&style=for-the-badge&url=https://github.com/WalkyLtd)](https://twitter.com/Walker_21390)
+[![Website](https://img.shields.io/website?label=WalkyLtd&style=for-the-badge&url=https://github.com/WalkyLtd)](https://github.com/WalkyLtd)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Walker_21390?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FWalker_21390&screen_name=Walker_21390)
 
 <p align="left"> 
@@ -53,14 +53,6 @@
 
 ---
 
-<details>
-  <summary>:fire: Best repo's</summary>
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Walker21390&repo=SaladCLI&theme=dark&show_icons=true)](https://github.com/Walker21390/SaladCLI)
-  
-</details>
-
----
 
 [website]: https://github.com/Walkx-Technologies
 [twitter]: https://twitter.com/Walker_21390
