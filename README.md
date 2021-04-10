@@ -54,7 +54,7 @@
 ---
 
 
-[website]: https://github.com/Walkx-Technologies
+[website]: https://walkyltd.xyz
 [twitter]: https://twitter.com/Walker_21390
 [youtube]: https://www.youtube.com/channel/UCl3V82k-w5lcWNKqxnD6Y_g
 [instagram]: https://www.instagram.com/walkx_/
