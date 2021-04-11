@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walker21390&label=Profile%20views&color=2c3800&style=flat" alt="walker21390" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walker21390" alt="walker21390" /></a> </p>
-
 - 🌱 I’m currently learning **Python and HTML**
 
 - 👨‍💻 All of my projects are available at [www.walkyltd.xyz](www.walkyltd.xyz)
