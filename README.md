@@ -54,8 +54,9 @@
 
 <br>
 <br>
-
+<p align="center">
 ## A Coding joke for you ;3
+</p>
 
 <div align="center">
   <img alt="joke" title="joke" src="https://readme-jokes.vercel.app/api/?theme=gruvbox">
