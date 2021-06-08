@@ -63,9 +63,3 @@
 <div align="center">
   <img alt="joke" title="joke" src="https://readme-jokes.vercel.app/api/?theme=gruvbox">
 </div>
-
-<style>
-  *:hover {
-     transform: scale(1.1);
-  }
-</style>
