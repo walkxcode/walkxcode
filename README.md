@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://github.com/WalkxCode/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Hey+I'm+Walkx.;Welcome+to+my+profile.;Enjoy."></a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=WalkxCode&style=flat-square&color=fe8019&label=Views"
 </p>
 
