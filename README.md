@@ -42,16 +42,10 @@
 </div>
 
 <br>
-<br>
 
 <h2 align="center">
-  Stats
-<details open>
-  <summary></summary>
       <img alt="stats" title="STATS" src="https://github-readme-streak-stats.herokuapp.com?user=WalkxCode&theme=gruvbox&hide_border=true"><img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api?username=WalkxCode&show_icons=tru&theme=gruvbox&hide_border=true">
       <br/><br/>
-  
-</details>
 </h2>
 
 <br>
