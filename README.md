@@ -28,7 +28,6 @@
         <img alt="SASS" title="SASS" src="https://img.shields.io/badge/SASS-FFD43B?style=for-the-badge&logo=SASS&logoColor=darkgreen" />
         <img alt="REACT.JS" title="REACT.JS" src="https://img.shields.io/badge/REACT.JS-FFD43B?style=for-the-badge&logo=REACT&logoColor=darkgreen" />
         <img alt="BOOTSTRAP" title="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-FFD43B?style=for-the-badge&logo=BOOTSTRAP&logoColor=darkgreen" />
-        <img alt="BOOTSTRAP" title="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-FFD43B?style=for-the-badge&logo=BOOTSTRAP&logoColor=darkgreen" />
         <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-FFD43B?style=for-the-badge&logo=GIT&logoColor=darkgreen" />
     </p>
   </details>
