@@ -18,6 +18,7 @@
 
 <div align="center">
   <h4>
+  <img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalkxCode&show_icons=tru&theme=gruvbox&hide_border=true&layout=compact">
   <details>
     <summary>🚀 Frameworks</summary>
     <br>
@@ -49,7 +50,6 @@
 <div align="center">
 <details>
   <summary>Open / Close</summary>
-      <img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalkxCode&show_icons=tru&theme=gruvbox&hide_border=true&layout=compact">
       <img alt="stats" title="STATS" src="https://github-readme-streak-stats.herokuapp.com?user=WalkxCode&theme=gruvbox&hide_border=true"><img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api?username=WalkxCode&show_icons=tru&theme=gruvbox&hide_border=true">
       <br/><br/>
   
