@@ -63,7 +63,7 @@
 <br>
 <br>
 <h2 align="center">
- A Coding joke for you ;3
+ A nice 'lil Coding joke for you ;3
 </h2>
 
 <div align="center">
