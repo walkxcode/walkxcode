@@ -42,7 +42,9 @@
 <br>
 <br>
 
-## Stats
+<h2 align="center">
+  Stats
+</h2>
 
 <div align="center">
   <img alt="stats" title="STATS" src="https://github-readme-streak-stats.herokuapp.com?user=WalkxCode&theme=gruvbox&hide_border=true">
@@ -61,3 +63,9 @@
 <div align="center">
   <img alt="joke" title="joke" src="https://readme-jokes.vercel.app/api/?theme=gruvbox">
 </div>
+
+<style>
+  *:hover {
+     transform: scale(1.1);
+  }
+</style>
