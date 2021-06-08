@@ -46,13 +46,9 @@
 
 <div align="center">
   <img alt="stats" title="STATS" src="https://github-readme-streak-stats.herokuapp.com?user=WalkxCode&theme=gruvbox&hide_border=true">
-
-  <br>
-  
-  <img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api?username=WalkxCode&show_icons=tru&theme=gruvbox">
-
-  <br>
-
+  <br/><br/>
+  <img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api?username=WalkxCode&show_icons=tru&theme=gruvbox&hide_border=true">
+  <br/><br/>
   <img alt="stats" title="STATS" src="https://activity-graph.herokuapp.com/graph?username=WalkxCode&bg_color=282828&color=b4993e&line=9cc180&point=4e472c&hide_border=true">
 </div>
 
