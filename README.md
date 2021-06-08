@@ -37,6 +37,7 @@
 
 <div align="center">
   <img alt="logo gif" title="logo" src="https://media4.giphy.com/media/dxP8utOJ7Jo1EawDyp/giphy.gif">
+  <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-3/492647318474981377.png">
 </div>
 
 <br>
