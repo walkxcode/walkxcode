@@ -59,6 +59,3 @@
 </div>
 
  <img alt="stats" title="STATS" src="https://activity-graph.herokuapp.com/graph?username=WalkxCode&bg_color=282828&color=b4993e&line=9cc180&point=4e472c&hide_border=true">
-
-<div align=center class="invitation-codes invitation-codes-badge1" data-type="badge1" data-product=""><a class="" href="https://invitation.codes/" data-type="badge1">Use my referral codes</a></div>
-<script async defer src="//invitation.codes/embed/user/1VQ9ZrA73/embed.js"></script>
