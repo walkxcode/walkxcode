@@ -14,8 +14,4 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_languages: yes
-          plugin_habits: yes
-          config_timezone: Europe/Amsterdam
-          plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_languages: ye
