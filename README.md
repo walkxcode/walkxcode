@@ -4,7 +4,5 @@ Hey, I'm Walkx. I'm 13 years old and I live in The Netherlands. I spend most of 
 ![Metrics](https://github.com/WalkxCode/WalkxCode/blob/master/github-metrics.svg)
 ![Metrics](https://github.com/WalkxCode/WalkxCode/blob/master/metrics.plugin.languages.details.svg)
 ![Metrics](https://github.com/WalkxCode/WalkxCode/blob/master/metrics.plugin.habits.facts.svg)
-![Metrics](https://github.com/WalkxCode/WalkxCode/blob/master/metrics.plugin.reactions.svg)
-![Metrics](https://github.com/WalkxCode/WalkxCode/blob/master/metrics.plugin.achievements.svg)
 ![Metrics](https://github.com/WalkxCode/WalkxCode/blob/master/metrics.plugin.activity.svg)
 
