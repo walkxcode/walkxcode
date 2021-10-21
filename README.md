@@ -3,9 +3,10 @@ Hey, I'm Walkx. I'm 13 years old and I live in The Netherlands. I spend most of 
 <br>
 <br>
 
-<p align="center">
-  · <a href="https://walkyltd.xyz">Website</a>
- · 
+<p align="center">  
+<a href="https://github.com/WalkxCode/md/blob/main/donate.md">
+ <img src="https://img.shields.io/static/v1?label=Donate&message=Crypto&color=f7931a&style=for-the-badge">
+</a>
  <br>
  <br>
  <img src="https://komarev.com/ghpvc/?username=walkxcode&style=flat-square&label=Views&color=DC143C">
