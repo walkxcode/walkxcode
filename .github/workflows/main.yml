@@ -19,6 +19,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: all
+          plugin_activity_visibility: public
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 0
