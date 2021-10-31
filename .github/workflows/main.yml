@@ -27,9 +27,6 @@ jobs:
           plugin_habits_trim: yes
           config_timezone: Europe/Amsterdam
           plugin_lines: yes
-          plugin_people: yes
-          plugin_people_types: followers
-          plugin_people_size: 28
           
           
           
