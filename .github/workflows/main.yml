@@ -14,4 +14,23 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_languages: ye
+          plugin_languages: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: all
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 0
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_trim: yes
+          config_timezone: Europe/Amsterdam
+          plugin_lines: yes
+          plugin_people: yes
+          plugin_people_types: followers
+          plugin_people_size: 28
+          
+          
+          
+          
