@@ -1,6 +1,6 @@
 <br>
 <div align=center>
-<h5>⤷ Checkout <a href="https://github.com/walkxhub">Walkx Hub</a>! All my 'big' projects are on there! ⤶</h5>
+<h2>⤷ Checkout <a href="https://github.com/walkxhub">Walkx Hub</a>! All my 'big' projects are on there! ⤶</h2>
 https://walkx.org
 <br>
 <a href="https://github.com/walkxhub"><img src="/winnie.png"></a>
