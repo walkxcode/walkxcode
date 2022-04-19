@@ -16,11 +16,6 @@ jobs:
           config_timezone: Europe/Amsterdam
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: all
-          plugin_activity_visibility: public
           plugin_languages: yes
           plugin_languages_sections: most-used  
           
