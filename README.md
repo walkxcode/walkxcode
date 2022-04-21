@@ -56,7 +56,6 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 <details>
 <summary><b>📂 My <a href="https://api.daily.dev/get?r=Walkx">daily.dev</a> bookmarks</b></summary>
 <!-- daily.dev BOOKMARKS:START -->
-
 - [Git Cheat Sheet 📄 &lpar;50 commands + Free PDF and poster&rpar;](https://app.daily.dev/posts/dP7qawzrP?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [Beautify your GitHub repo](https://app.daily.dev/posts/NwmMSR9vq?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 <!-- daily.dev BOOKMARKS:END -->
