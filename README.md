@@ -59,6 +59,8 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [tailwindpdf - Create PDF or Image from HTML styled with tailwindcss](https://app.daily.dev/posts/krJnTDXwe?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://app.daily.dev/posts/He-FMzTRL?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [Git Cheat Sheet 📄 &lpar;50 commands + Free PDF and poster&rpar;](https://app.daily.dev/posts/dP7qawzrP?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [Beautify your GitHub repo](https://app.daily.dev/posts/NwmMSR9vq?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 <!-- daily.dev BOOKMARKS:END -->
