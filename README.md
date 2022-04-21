@@ -54,7 +54,8 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 </details>
 
 <details>
-<summary><b>📂 My <a href="https://api.daily.dev/get?r=Walkx">daily.dev</a> bookmarks</b></summary>
+<summary><b>📂 My <a href="https://api.daily.dev/get?r=Walkx">daily.dev</a> stats</b></summary>
+<a href="https://app.daily.dev/Walkx"><img src="https://api.daily.dev/devcards/dfcb1f2c61484f879df820190d3171e0.png?r=u2x" width="225" alt="Walkx's Dev Card"/></a>
 
 
 <!-- daily.dev BOOKMARKS:START -->
