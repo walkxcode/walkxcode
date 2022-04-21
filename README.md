@@ -48,8 +48,9 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 
 <details>
 <summary><b>🐦 Latest Tweet</b></summary>
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=walkxtweet)](https://twitter.com/walkxtweet)
+
 </details>
 
 <details>
