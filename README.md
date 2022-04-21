@@ -15,13 +15,6 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 </details>
 
 <details>
-<summary><b>🎵 Last.fm Recently Played</b></summary>
-
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=WalkxNL&loved=true)](https://www.last.fm/user/WalkxNL)
-
-</details>
-
-<details>
 <summary><b>✨&nbsp;Things I use</b></summary>
 <p>
     <!-- Languages -->
@@ -44,6 +37,13 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
     <br>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+</details>
+	
+<details>
+<summary><b>🎵 Last.fm Recently Played</b></summary>
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=WalkxNL&loved=true)](https://www.last.fm/user/WalkxNL)
+
 </details>
 
 <details>
