@@ -59,11 +59,11 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Setting up a terminal you will love to use](https://app.daily.dev/posts/R2kcisprw?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [6 Useful Checklists Every Developer Should Know 📃💯](https://app.daily.dev/posts/6665tiGR3?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [tailwindpdf - Create PDF or Image from HTML styled with tailwindcss](https://app.daily.dev/posts/krJnTDXwe?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://app.daily.dev/posts/He-FMzTRL?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [Git Cheat Sheet 📄 &lpar;50 commands + Free PDF and poster&rpar;](https://app.daily.dev/posts/dP7qawzrP?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://app.daily.dev/posts/__kOFJPyN?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [github-pewpew - Pew pew needless GitHub repos! Clean up your repos via CLI](https://app.daily.dev/posts/EJ4GRb2Sh?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [Animated 3D Backgrounds For Your Website](https://app.daily.dev/posts/x8VutRbQs?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [if/else in CSS](https://app.daily.dev/posts/iozC-MSR2?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [How long since Google said a Google Drive Linux client is coming?](https://app.daily.dev/posts/EJNcaLvyc?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 <!-- daily.dev BOOKMARKS:END -->
 
 
