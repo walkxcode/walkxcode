@@ -59,11 +59,11 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Chalk.ist - Create beautiful images of your source code](https://app.daily.dev/posts/D_td0gcp1?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [starship/starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://app.daily.dev/posts/ficsWcc6f?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [11 Productive Websites for Web Developers](https://app.daily.dev/posts/ccYGZRTVn?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://app.daily.dev/posts/__kOFJPyN?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [github-pewpew - Pew pew needless GitHub repos! Clean up your repos via CLI](https://app.daily.dev/posts/EJ4GRb2Sh?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [Animated 3D Backgrounds For Your Website](https://app.daily.dev/posts/x8VutRbQs?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [if/else in CSS](https://app.daily.dev/posts/iozC-MSR2?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [How long since Google said a Google Drive Linux client is coming?](https://app.daily.dev/posts/EJNcaLvyc?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 <!-- daily.dev BOOKMARKS:END -->
 
 
