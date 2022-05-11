@@ -401,7 +401,7 @@ Resolves not fetching when the users didn't put a / at the end of the service ur
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2022, 19:30:43 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 11 May 2022, 20:26:14 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
