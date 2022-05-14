@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="906" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="890" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -100,7 +100,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            286 issue comments
+                            289 issue comments
                         </div>
                     </section>
                     <section>
@@ -215,7 +215,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    35 views in last two weeks
+                                    34 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -296,6 +296,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#91 <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Add build status badges</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by c00ldude1oo in <span class="repo">ajnart/homarr</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -305,24 +321,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by c00ldude1oo in <span class="repo">ajnart/homarr</span></div>
-                                    <div class="comment">Gitmoji badge isn't needed because It's mentioned here. https://github.com/ajnart/homarr/blob/master/CONTRIBUTING.md#commit-messages</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#96 Align Homarr logo to left of search bar</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">ajnart/homarr</span></div>
+                                    <div class="comment">Looks good and very sexy.</div>
                                 </div>
                             </section>
                         </div>
@@ -334,12 +333,16 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#95 Allow different item sizings</span>
+                                        <span class="issue">#96 Align Homarr logo to the left</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by drifter75 in <span class="repo">ajnart/homarr</span></div>
-                                    <div class="comment">Great suggestion!</div>
+                                    <div>opened by walkxcode in <span class="repo">ajnart/homarr</span></div>
+                                    <div class="comment">
+                                        Btw maybe the
+                                        <code>@ajnart</code>
+                                        text should be the same size as the other text?
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -351,12 +354,13 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#93 Show installed version of Homarr in Settings</span>
+                                        <span class="issue">#96 Align Homarr logo to the left</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by drifter75 in <span class="repo">ajnart/homarr</span></div>
-                                    <div class="comment">Please write more detail in your issue. (Eg. Where would you like the version to be placed, In what way would it need to be shown, Does it need to be clickable)!</div>
+                                    <div>opened by walkxcode in <span class="repo">ajnart/homarr</span></div>
+                                    <div class="comment">I've made a new mockup, think this actually looks better.
+Changes: Align settings cog to right and add 8px radius instead of 50%, fully align Homarr logo to left</div>
                                 </div>
                             </section>
                         </div>
@@ -374,10 +378,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#db453d0</div>
-                                        <div class="message">✏️ Fixes yaml issue
-
-Removes the : in the description</div>
+                                        <div class="sha">#0d1a1b8</div>
+                                        <div class="message">🧑‍💻 Adds template for ideas</div>
                                     </div>
                                 </div>
                             </section>
@@ -387,7 +389,7 @@ Removes the : in the description</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2022, 16:19:46 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 14 May 2022, 17:21:45 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
