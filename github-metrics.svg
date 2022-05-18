@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="865" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -100,7 +100,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            309 issue comments
+                            311 issue comments
                         </div>
                     </section>
                     <section>
@@ -298,7 +298,61 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by ajnart in <span class="repo">ajnart/homarr</span></div>
-                                    <div class="comment">
+                                    <div class="comment">Will test right now.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#93 [Icon Request]: Pixelfed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by draconis3119 in <span class="repo">walkxhub/dashboard-icons</span></div>
+                                    <div class="comment">Hey,
+Thanks for suggesting an icon! Your icon(s) have been added to the repo. 🤍</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#93 [Icon Request]: Pixelfed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by draconis3119 in <span class="repo">walkxhub/dashboard-icons</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">walkxhub/dashboard-icons</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be483ed</div>
+                                        <div class="message">feat(#93): Add Pixelfed</div>
                                     </div>
                                 </div>
                             </section>
@@ -311,73 +365,13 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#118 Use capital letters at the beginning of each word.</span>
+                                        <span class="issue">#92 [Icon Request]: Ward</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by mariushosting in <span class="repo">ajnart/homarr</span></div>
-                                    <div class="comment">
-                                        <i>There is a discrepancy. You add the text: Enable search bar After that you add the text: Enable Calendar module
-Is better to add the text: Enable Search bar like Enable Calendar module There is a discrepancy between the first option text and the second option text</i>
-                                        I fully agree with this.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#115 Going back to the Homarr tab after using the search bar causes Homarr to freeze completely</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">ajnart/homarr</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ajnart/homarr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#da81783</div>
-                                        <div class="message">🧑‍💻 Adds release note template</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">walkxcode/todocli</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#08a0591</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Removes files in .gitignore</div>
-                                    </div>
+                                    <div>opened by JDsnyke in <span class="repo">walkxhub/dashboard-icons</span></div>
+                                    <div class="comment">Hey,
+Thanks for suggesting an icon! Your icon(s) have been added to the repo. 🤍</div>
                                 </div>
                             </section>
                         </div>
@@ -386,7 +380,7 @@ Is better to add the text: Enable Search bar like Enable Calendar module There i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2022, 16:22:49 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 17:22:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
