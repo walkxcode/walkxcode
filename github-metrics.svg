@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="859" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="865" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -100,7 +100,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            319 issue comments
+                            320 issue comments
                         </div>
                     </section>
                     <section>
@@ -289,6 +289,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#139 <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Add new config format</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ajnart in <span class="repo">ajnart/homarr</span></div>
+                                    <div class="comment">is it backwards compatible?</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -360,38 +377,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">walkxhub/dashboard-icons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#487c321</div>
-                                        <div class="message">[ImgBot] Optimize images (#98)
-
-/png/pi-alert-dark.png -- 76.87kb -&gt; 31.34kb (59.23%)
-
-Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;
-
-Co-authored-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2022, 21:17:24 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 22 May 2022, 22:21:34 (timezone Europe/Amsterdam) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
