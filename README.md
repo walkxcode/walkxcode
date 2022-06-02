@@ -93,4 +93,4 @@ I'm a 14 year old Web Developer from <img src="https://github.com/WalkxCode/Walk
   <i>This readme is licenced under the <a href="">WTFPL</a> license!
 </p>
 	
-[![](https://visitcount.itsvg.in/api?id=walkxcode&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=walkxcode&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
