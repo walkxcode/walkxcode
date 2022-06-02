@@ -1,43 +1,16 @@
-<h1>Hey! I'm walkx.</h1>
+<h1>Hey, I'm Bjorn Lammers! <i>(Walkx)</i></h1>
 
-<p>Welcome to my profile.<br>
-My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCode/WalkxCode/blob/master/img/flag.png" width="13px"> <b>The Netherlands</b>.<br>
+I'm a 14 year old Web Developer from <img src="https://github.com/WalkxCode/WalkxCode/blob/master/img/flag.png" width="13px"> <b>The Netherlands</b>.<br>
 <i>Visit my <a target="_blank" href="https://walkx.org">website</a>!</i>
-<br><br>
-<b>⤷ Checkout <a href="https://github.com/walkxhub">Walkx Hub</a>! All my 'big' projects are on there! ⤶</b>
-<br><br>
+
+<b>↪ <a href="https://linkedin.com/in/bjorn-lammers">LinkedIn</a> ↩<b/>
 
 <details>
 <summary><b>💖 GitHub Stats</b></summary>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=walkxcode &style=flat-square&color=D0B83A" />
 
 ![Metrics](https://github.com/WalkxCode/WalkxCode/blob/master/github-metrics.svg)
 </details>
 
-<details>
-<summary><b>✨&nbsp;Things I use</b></summary>
-<p>
-    <!-- Languages -->
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-3776AB?style=flat-square&logo=TailwindCSS&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
-    <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=greenyellow" />
-    <!-- Tools -->
-    <br>
-    <img alt="Visual Studio Code Insiders" src="https://img.shields.io/badge/-Visual_Studio_Code_Insiders-1b2537?style=flat-square&logo=VisualStudioCode&logoColor=lightgreen" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-3776AB?style=flat-square&logo=VisualStudioCode&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black" />
-    <img alt="Windows Terminal" src="https://img.shields.io/badge/-Windows_Terminal-61DAFB?style=flat-square&logo=Windows-Terminal&logoColor=black" />
-    <!-- Code Storage -->
-    <br>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-</details>
 	
 <details>
 <summary><b>🎵 Last.fm Recently Played</b></summary>
@@ -89,25 +62,25 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxhub/dashboard-icons?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/walkxhub/homer-theme"><b>Homer Theme</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxhub/homer-theme?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxhub/homer-theme?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxhub/homer-theme?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxhub/homer-theme?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/walkxcode/homer-theme"><b>Homer Theme</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/walkxhub/walkx.org"><b>Walkx.org</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxhub/walkx.org?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxhub/walkx.org?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxhub/walkx.org?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxhub/walkx.org?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/walkxcode/walkx.org"><b>walkx.org</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/walkxhub/TailwindCSS-Portfolio"><b>TailwindCSS Portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxhub/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxhub/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxhub/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxhub/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/walkxcode/TailwindCSS-Portfolio"><b>TailwindCSS Portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -119,3 +92,5 @@ My name is Bjorn, I'm a Web Developer from <img src="https://github.com/WalkxCod
 <p align="center">
   <i>This readme is licenced under the <a href="">WTFPL</a> license!
 </p>
+	
+[![](https://visitcount.itsvg.in/api?id=walkxcode&icon=0&color=2)](https://visitcount.itsvg.in)
