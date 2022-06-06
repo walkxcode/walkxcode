@@ -32,11 +32,11 @@ I'm a 14 year old Web Developer from <img src="https://github.com/WalkxCode/Walk
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [XeroLinux: An Arch-based Linux Distro That Looks Beautiful](https://app.daily.dev/posts/Y_eLnXndq?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [Portfolio Ideas - An open-source repository for inspiration](https://app.daily.dev/posts/4LN4RnfYy?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [Project ideas!!! &lpar;Frustrated&rpar;](https://app.daily.dev/posts/p_5BmGDWs?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [Get good at Git](https://app.daily.dev/posts/2aeGZE3lQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [How To Undo ‘git add’ Before a Commit](https://app.daily.dev/posts/eoaTO7_3M?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [A Fan is Remaking Need for Speed Underground 2 in Unreal Engine](https://app.daily.dev/posts/BMhv4r9j7?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [Please, stop disabling zoom](https://app.daily.dev/posts/xfeRfYcaf?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [What are your Most Used Self Hosted Applications?](https://app.daily.dev/posts/sCMSaIke8?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 <!-- daily.dev BOOKMARKS:END -->
 
 
