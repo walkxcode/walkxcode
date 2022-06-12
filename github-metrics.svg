@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="855" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="805" class="">
     <defs>
         <style/>
     </defs>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 64 repositories
+                            Contributed to 65 repositories
                         </div>
                     </section>
                 </div>
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            45 Issues opened
+                            46 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.40k views in last two weeks
+                                    1.39k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -304,6 +304,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#36 Which tact switch should I use for the Lily58 Pro?</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">kata0510/Lily58</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -376,40 +393,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">walkxcode/scrimba-travel-journal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#745d3e3</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Initial Commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9779851</div>
-                                        <div class="message">Merge branch 'main' of github.com:walkxcode/scrimba-travel-journal into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7065a74</div>
-                                        <div class="message">Initialize project using Create React App</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2022, 22:20:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 12 Jun 2022, 23:16:22 (timezone Europe/Amsterdam) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
