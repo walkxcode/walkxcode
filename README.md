@@ -1,9 +1,18 @@
-<h1>Hey, I'm Bjorn Lammers! <i>(Walkx)</i></h1>
+## Hey, I'm Bjorn Lammers! *(Walkx)*
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEOpAZRQgfBTw/profile-displayphoto-shrink_200_200/0/1650195196066?e=1661385600&v=beta&t=dsma04C-fuMP5de_e0YNPP3zI1GlHpDfARiTiUJyqiA" align="right" width="200px">
+I'm a 14-year-old Web Developer from 🇳🇱 The Netherlands.<br>
 
-I'm a 14 year old Web Developer from <img src="https://github.com/WalkxCode/WalkxCode/blob/master/img/flag.png" width="13px"> <b>The Netherlands</b>.<br>
-<i>Visit my <a target="_blank" href="https://walkx.org">website</a>!</i>
+**I love to make the web a better place.** Creating, organizing, and optimizing code related to the web whilst keeping it interesting and available to everyone. I like to take inspiration from the 90s-2000s web[^1], when the web was all about learning and being creative.<br>
 
-<b>↪ <a href="https://linkedin.com/in/bjorn-lammers">LinkedIn</a> ↩<b/>
+I've helped multiple companies/organizations with creating and organizing their projects, improving UX[^2], writing documentation, designing applications, and more.
+
+## Where can I find your work?
+You can find my work on <a target="_blank" href="https://github.com/WalkxCode">GitHub</a>, <a target="_blank" href="https://linkedin.com/in/bjorn-lammers">LinkedIn</a>, and <a target="_blank" href="https://walkx.org">my website!</a>
+
+[^1]: https://wiki.archiveteam.org/index.php/GeoCities
+[^2]: https://en.wikipedia.org/wiki/User_experience
+
+---
 
 <details>
 <summary><b>💖 GitHub Stats</b></summary>
@@ -42,48 +51,6 @@ I'm a 14 year old Web Developer from <img src="https://github.com/WalkxCode/Walk
 
 </details>
 
-<h3>Some of my best projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/walkxhub/dashboard-icons"><b>Dashboard Icons</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxhub/dashboard-icons?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxhub/dashboard-icons?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxhub/dashboard-icons?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxhub/dashboard-icons?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/walkxcode/homer-theme"><b>Homer Theme</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxcode/homer-theme?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/walkxcode/walkx.org"><b>walkx.org</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxcode/walkx.org?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/walkxcode/TailwindCSS-Portfolio"><b>TailwindCSS Portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/walkxcode/TailwindCSS-Portfolio?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 <i><a href="https://github.com/walkxcode/stars">⭐ Awesome Stars</a></i>
