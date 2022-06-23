@@ -41,11 +41,11 @@ You can find my work on <a target="_blank" href="https://github.com/WalkxCode">G
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Tailbuild - Tailwind 3 CSS page and component builder](https://app.daily.dev/posts/FDl3Ku4c7?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [Jamstack, JS Utilities, Git/CLI Tools](https://app.daily.dev/posts/GuU38K6Zr?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [Umbrel - A beautiful personal server OS for self-hosting](https://app.daily.dev/posts/mVnEJg0ba?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [VSLook - Customize the look of your VSCode 😎](https://app.daily.dev/posts/Ei9RWVp87?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [XeroLinux: An Arch-based Linux Distro That Looks Beautiful](https://app.daily.dev/posts/Y_eLnXndq?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [Portfolio Ideas - An open-source repository for inspiration](https://app.daily.dev/posts/4LN4RnfYy?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [Project ideas!!! &lpar;Frustrated&rpar;](https://app.daily.dev/posts/p_5BmGDWs?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 <!-- daily.dev BOOKMARKS:END -->
 
 
