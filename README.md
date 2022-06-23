@@ -41,11 +41,11 @@ You can find my work on <a target="_blank" href="https://github.com/WalkxCode">G
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Umbrel - A beautiful personal server OS for self-hosting](https://app.daily.dev/posts/mVnEJg0ba?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
+- [VSLook - Customize the look of your VSCode 😎](https://app.daily.dev/posts/Ei9RWVp87?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [XeroLinux: An Arch-based Linux Distro That Looks Beautiful](https://app.daily.dev/posts/Y_eLnXndq?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [Portfolio Ideas - An open-source repository for inspiration](https://app.daily.dev/posts/4LN4RnfYy?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 - [Project ideas!!! &lpar;Frustrated&rpar;](https://app.daily.dev/posts/p_5BmGDWs?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [Get good at Git](https://app.daily.dev/posts/2aeGZE3lQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
-- [How To Undo ‘git add’ Before a Commit](https://app.daily.dev/posts/eoaTO7_3M?utm_source=rss&utm_medium=bookmarks&utm_campaign=tbDjf19b3neY37I2xin21)
 <!-- daily.dev BOOKMARKS:END -->
 
 
