@@ -1,16 +1,14 @@
-## Hey, I'm Bjorn Lammers! *(Walkx)*
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEOpAZRQgfBTw/profile-displayphoto-shrink_200_200/0/1650195196066?e=1661385600&v=beta&t=dsma04C-fuMP5de_e0YNPP3zI1GlHpDfARiTiUJyqiA" align="right" width="200px">
-I'm a 14-year-old Web Developer from 🇳🇱 The Netherlands.<br>
+Hey 👋, I'm Bjorn, an IT enthusiast from The Netherlands.
 
-**I love to make the web a better place.** Creating, organizing, and optimizing code related to the web whilst keeping it interesting and available to everyone. I like to take inspiration from the 90s-2000s web[^1], when the web was all about learning and being creative.<br>
+Over the years I have done many projects, focusing on a wide range of things. I love working on anything that includes tech - Coding, repairing, making.
 
-I've helped multiple companies/organizations with creating and organizing their projects, improving UX[^2], writing documentation, designing applications, and more.
-
-## Where can I find your work?
-You can find my work on <a target="_blank" href="https://github.com/WalkxCode">GitHub</a>, <a target="_blank" href="https://linkedin.com/in/bjorn-lammers">LinkedIn</a>, and <a target="_blank" href="https://walkx.org">my website!</a>
-
-[^1]: https://wiki.archiveteam.org/index.php/GeoCities
-[^2]: https://en.wikipedia.org/wiki/User_experience
+A couple of examples of what I have made;
+» Advanced 3D(-print) models.
+» Websites.
+» Guitar(-pedal)s.
+» Documentation.
+» UI/UX design.
+» Video content.
 
 ---
 
