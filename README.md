@@ -3,12 +3,12 @@ Hey 👋, I'm Bjorn, an IT enthusiast from The Netherlands.
 Over the years I have done many projects, focusing on a wide range of things. I love working on anything that includes tech - Coding, repairing, making.
 
 A couple of examples of what I have made;
-» Advanced 3D(-print) models.
-» Websites.
-» Guitar(-pedal)s.
-» Documentation.
-» UI/UX design.
-» Video content.
+» Advanced 3D(-print) models.<br>
+» Websites.<br>
+» Guitar(-pedal)s.<br>
+» Documentation.<br>
+» UI/UX design.<br>
+» Video content.<br>
 
 ---
 
