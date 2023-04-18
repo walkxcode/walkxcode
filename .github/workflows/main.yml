@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Amsterdam
-          config_display: columns
+          config_display: large
           base_indepth: yes
           base_hireable: yes
           plugin_lines: yes
