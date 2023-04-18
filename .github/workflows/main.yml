@@ -16,7 +16,6 @@ jobs:
           config_timezone: Europe/Amsterdam
           base_indepth: yes
           base_hireable: yes
-          plugin_achievements: yes
           plugin_lines: yes
           plugin_traffic: yes
           plugin_activity: yes
@@ -31,11 +30,10 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_people: yes
           plugin_people_limit: 0
-          plugin_people_types: followers, following, sponsors, sponsoring
           plugin_reactions: yes
           plugin_reactions_display: relative
           plugin_stargazers: yes
-          plugin_stargazers_days: 30
+          config_order: base, lines, traffic languages, activity, habits, stargazers, reactions, people
           
           
           
