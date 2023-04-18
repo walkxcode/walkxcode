@@ -28,12 +28,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_other: yes
           plugin_languages_sections: most-used, recently-used
-          plugin_people: yes
-          plugin_people_limit: 0
           plugin_reactions: yes
           plugin_reactions_display: relative
           plugin_stargazers: yes
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, activity, lines, traffic languages, habits, stargazers, reactions, people
+ 
           
           
           
