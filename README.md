@@ -16,5 +16,5 @@ Hey 👋, I'm Bjorn, an IT enthusiast from The Netherlands.
 
 <p align="center">
   <i>This readme is licenced under the <a href="">WTFPL</a> license! <br><br>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=walkxcode&amp;label=Profile%20Views&amp;color=2&amp;pretty=false" alt=""></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=walkxcode&amp;label=Profile%20Views&amp;color=2&amp;pretty=true" alt=""></a>
 </p>
