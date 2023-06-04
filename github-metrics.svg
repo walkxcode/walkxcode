@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1455" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1155" class="large">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    356k added, 282k removed
+                                    282k added, 220k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    9.96k views in last two weeks
+                                    10k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -293,19 +293,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 323kb of code in 417 edited files across 229 commits over last 9 days</small>
+                <small>estimation from 331kb of code in 419 edited files across 232 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="718.7229109680957" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="718.7229109680957" y="0" width="65.36566980932747" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="784.0885807774231" y="0" width="38.26219042126121" height="8" fill="#a53b70"/>
-                    <rect mask="url(#languages-bar)" x="822.3507711986844" y="0" width="36.48120970551117" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="858.8319809041956" y="0" width="24.445142390516054" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="883.2771232947116" y="0" width="21.277203241261557" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="904.5543265359731" y="0" width="15.445673464026907" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="727.8908183175818" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="727.8908183175818" y="0" width="62.388349302898504" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="790.2791676204803" y="0" width="36.51939784383618" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="826.7985654643164" y="0" width="34.819538463215494" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="861.6181039275319" y="0" width="23.33169822427156" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="884.9498021518035" y="0" width="20.3080545472383" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="905.2578566990418" y="0" width="14.742143300958174" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -539,6 +539,31 @@
                                 <div class="details">
                                     <div>on branch <span class="code">next</span></div>
                                     <div class="commit">
+                                        <div class="sha">#8f29520</div>
+                                        <div class="message">🚧 WIP: Converting to CTk</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8d70a5</div>
+                                        <div class="message">💄 Improves UI consistancy</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">5 Jun 2023, 00:10:41</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">walkxcode/roop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">next</span></div>
+                                    <div class="commit">
                                         <div class="sha">#1709474</div>
                                         <div class="message">💬 Updates --gpu-threads description</div>
                                     </div>
@@ -608,103 +633,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">4 Jun 2023, 22:34:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 43 commits in
-                                        <span class="repo">walkxcode/roop</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">next</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2c91270</div>
-                                        <div class="message">Functionional style ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6288cdc</div>
-                                        <div class="message">Move ui from core</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#777261c</div>
-                                        <div class="message">Add cuda utilization and cuda memory to progress bar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21e2953</div>
-                                        <div class="message">Double GPU performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f0c3b4</div>
-                                        <div class="message">Double GPU performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0a7b19</div>
-                                        <div class="message">Skip matrix build for now (too complicated as of cuda runtimes)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23d8d78</div>
-                                        <div class="message">Introduce CI matrix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10433d1</div>
-                                        <div class="message">Introduce CI matrix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98e19e1</div>
-                                        <div class="message">Introduce CI matrix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9101f8d</div>
-                                        <div class="message">Introduce CI matrix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8a158d</div>
-                                        <div class="message">Fix callback</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4fda58</div>
-                                        <div class="message">Merge branch 's0md3v:next' into next</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8488f94</div>
-                                        <div class="message">Merge branch 'next' of https://github.com/K1llMan/roop into next</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee9406a</div>
-                                        <div class="message">Set slider to zero</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f99e819</div>
-                                        <div class="message">Merge branch 'next' of https://github.com/K1llMan/roop into next</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ed0055</div>
-                                        <div class="message">Auto adjust window size to preview</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af5b68f</div>
-                                        <div class="message">lint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5012e0</div>
-                                        <div class="message">Merge branch 'next' of https://github.com/K1llMan/roop into next</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86e9b3c</div>
-                                        <div class="message">Aspect ratio for preview</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22ce9c3</div>
-                                        <div class="message">Preview window</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">4 Jun 2023, 22:33:52</div>
                             </section>
                         </div>
                     </section>
@@ -781,7 +709,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2023, 23:13:40 (timezone Europe/Amsterdam) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jun 2023, 00:14:27 (timezone Europe/Amsterdam) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
