@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    23.4k added, 11.4k removed
+                                    414k added, 290k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    29.9k views in last two weeks
+                                    29.8k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -293,7 +293,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 112kb of code in 48 edited files across 27 commits over last 6 days</small>
+                <small>estimation from 112kb of code in 49 edited files across 29 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -495,6 +495,27 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">walkxcode/arrow-js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3a6f7aa</div>
+                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Delete package-lock.json</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Feb 2024, 13:39:16</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">walkxcode/arrow-js</span>
                                     </div>
@@ -569,29 +590,6 @@ Too lazy to individually commit :-)
                                     </div>
                                 </div>
                                 <div class="timestamp">15 Feb 2024, 01:28:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">walkxcode/dashboard-icons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ca74a20</div>
-                                        <div class="message">🍱 Adds kbin (#604)
-
-Co-authored-by: Bjorn Lammers &lt;walkxnl@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Feb 2024, 00:48:35</div>
                             </section>
                         </div>
                     </section>
@@ -669,7 +667,7 @@ Co-authored-by: Bjorn Lammers &lt;walkxnl@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2024, 13:28:00 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2024, 14:17:24 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
