@@ -1,4 +1,4 @@
-![Metrics](https://github.com/walkxcode/walkxcode/blob/master/github-metrics.svg)
+![Metrics](https://github.com/lammersbjorn/lammersbjorn/blob/master/github-metrics.svg)
 
 ---
 
