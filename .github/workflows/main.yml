@@ -17,8 +17,6 @@ jobs:
           config_display: large
           base_indepth: yes
           base_hireable: yes
-          plugin_lines: yes
-          plugin_lines_sections: history, repositories
           plugin_traffic: yes
           plugin_activity: yes
           plugin_activity_limit: 5
