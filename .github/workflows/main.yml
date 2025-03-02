@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Amsterdam
